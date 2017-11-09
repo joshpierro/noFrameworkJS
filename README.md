@@ -1,2 +1,2 @@
-# ts2
-turdsicle game
+# noFrameworkJS
+Starter app including MD lite, service workers
